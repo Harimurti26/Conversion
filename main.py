@@ -55,7 +55,6 @@ while True:
         print("Hexadecimal:", hex_val[2:])
         print("Octal:", oct_val[2:])
         print("Binary:", bin_val[2:])
-        print("ASCII:", ascii_val)
 
     elif secondmenu == '3':
         hex_val = input("Enter a hexadecimal value: ")
@@ -64,7 +63,6 @@ while True:
         print("Decimal:", decimal_val)
         print("Octal:", oct_val[2:])
         print("Binary:", bin_val[2:])
-        print("ASCII:", ascii_val)
 
     elif secondmenu == '4':
         octal_val = input("Enter an octal value: ")
@@ -73,7 +71,6 @@ while True:
         print("Decimal:", decimal_val)
         print("Hexadecimal:", hex_val[2:])
         print("Binary:", bin_val[2:])
-        print("ASCII:", ascii_val)
 
     elif secondmenu == '5':
         binary_val = input("Enter a binary value: ")
@@ -82,7 +79,6 @@ while True:
         print("Decimal:", decimal_val)
         print("Hexadecimal:", hex_val[2:])
         print("Octal:", oct_val[2:])
-        print("ASCII:", ascii_val)
 
     elif secondmenu == '6':
         print("Good bye")
